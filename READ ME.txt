@@ -1,0 +1,21 @@
+NAME: POORNESH S
+ROLL  NO: 2019504559
+TEAM MEMBERS : NONE
+PROJECT : "AI FLAPPY BIRD" BY NEUROEVOLUTION OF AUGMENTING TOPOLOGIES(NEAT) ALGORITHM
+
+
+DOCUMENTATION GIVEN
+
+
+DESCRIPTION:
+   The algothrim is simple neural network, where the neurons are coupled between the layeres. The coupling proceeds Through the 
+generations, where the good traits(weights and biases) are filtered and boosted based on the points that I given in the code 
+For Example : when a bird cross a pipe it gains a points and its traits are passed on to the next generation. So in every generation 
+the bird gets better in progress.
+
+
+TIME TAKEN TO COMPLETE : 9 HOURS
+
+SOURCE : YOUTUBE( LEARNED AND MADE IT MY SELF) https://www.youtube.com/watch?v=MMxFDaIOHsE
+
+
